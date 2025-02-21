@@ -1,3 +1,17 @@
+[一款适用于不识字/文盲/视力障碍老人和其他人士的安卓手机桌面，极度简单容易操作](https://pan.baidu.com/s/1uVw7y9rqV-S4ExVyclIc1g?pwd=yo8i)
+
+开启无障碍步骤：手机系统设置,->无障碍->已下载的应用->文盲老人桌面->使用“文盲老人桌面”
+
+红米13C给家里老人用，下载设置了半天，终于可以畅通使用，微信不听话的，
+可以试试旧版本的微信我换成8.0.54版本的就挺听话的（该版本发布日期靠近up作品日期），
+[微信版本地址](https://github.com/DJB-Developer/wechat-android-history-versions)
+
+👍👍还能不能加一个自定义启动某个软件的功能，比如我给家里老人下载了个能收看央视卫视直播的app，
+在那个Data.xml文件Apps分支中，像其他行一样添加一条App记录，把AppID后面的内容改成闹钟的包名，并配置下图片。
+ : 👍👍👍👍成功了，并且发现oppo无法使用相机功能，相机包名不是Camera。修改为com.oppo.camera即可，mt管理器可以查看包名
+
+ 
+
 # [微信Android历史版本](https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_faq_list)
 
 微信Android 历史版本
