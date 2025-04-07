@@ -1,3 +1,6 @@
+[ Wechat v3.9.10.19](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.10.19/WeChatSetup-3.9.10.19.exe)
+
+
 [一款适用于不识字/文盲/视力障碍老人和其他人士的安卓手机桌面，极度简单容易操作](https://pan.baidu.com/s/1uVw7y9rqV-S4ExVyclIc1g?pwd=yo8i)
 
 开启无障碍步骤：手机系统设置,->无障碍->已下载的应用->文盲老人桌面->使用“文盲老人桌面”
